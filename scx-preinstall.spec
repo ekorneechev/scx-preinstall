@@ -25,6 +25,6 @@ ln -sf %_libdir/librpm-4.0.4.so %buildroot%_libdir/librpm.so.1
 
 
 %changelog
-* Wed Mar 23 2016 Evgeniy Korneechev <ek@myconnector.ru> 1.0-alt1
+* Wed Mar 23 2016 Evgeniy Korneechev <ekorneechev@altlinux.org> 1.0-alt1
 - Initial build
 
